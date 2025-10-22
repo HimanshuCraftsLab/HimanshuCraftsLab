@@ -67,10 +67,6 @@ I'm a **Data Science Undergraduate** passionate about leveraging AI and Machine 
 - Flask app demonstrating NLP fundamentals: preprocessing, vectorization, similarity
 - **Tech Stack:** Flask, Python, HTML
 
-### 🍔 [UberEats vs Grubhub Business Hours Analysis](https://github.com/HimanshuCraftsLab/Ubereats-Grubhub-Business-hours)
-**Comparative Business Intelligence** ⏰
-- Analyzed virtual kitchen business hours across platforms using BigQuery & UDFs
-- **Tech Stack:** Google BigQuery, JavaScript UDFs, SQL, Data Analytics
 
 ## 📈 GitHub Analytics
 
