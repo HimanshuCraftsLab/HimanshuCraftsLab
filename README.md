@@ -10,7 +10,7 @@ I'm a **Data Science Undergraduate** passionate about leveraging AI and Machine 
 
 - 🔭 **Currently working on:** Advanced ML techniques and AI-driven projects
 - 🌱 **Learning:** Deep Learning, NLP, **LLMs**, and **RAG** systems
-- 💼 **Interested in:** **AI Product Management, Data Science related roles** (applying AI to build user-centric products)
+- 💼 **Interested in:** **AI Product Management**(applying AI to build user-centric products), **Data Science related roles**
 - 🎯 **Goal:** Bridge the gap between AI research and practical business applications
 - ⚡ **Fun fact:** I love exploring cutting-edge AI applications in real-world scenarios!
 
