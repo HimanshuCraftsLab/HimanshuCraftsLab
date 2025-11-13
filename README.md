@@ -32,9 +32,12 @@ I'm a **Data Science Undergraduate** passionate about leveraging AI and Machine 
 ![RAG](https://img.shields.io/badge/RAG-2E7D32?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-6A1B9A?style=for-the-badge)
 ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-455A64?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
 ### Web & Data Platforms
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -44,6 +47,13 @@ I'm a **Data Science Undergraduate** passionate about leveraging AI and Machine 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎯 Featured Projects
+
+### 🏥 [Healthcare RAG Assistant](https://github.com/HimanshuCraftsLab/healthcare-rag-assistant)
+**Clinical & Regulatory Document Retrieval + LLM QA** 🔬
+- RAG system for extracting and providing factual answers from healthcare documents (PDF/HTML/CSV/Excel)
+- Semantic search with FAISS vector store and metadata-driven chunking
+- Low-temperature LLM responses for factual accuracy in clinical contexts
+- **Tech Stack:** Python, LangChain, OpenAI, FAISS, Streamlit, PyMuPDF
 
 ### 🏦 [BCG Data Science Analytics - Churn Prediction](https://github.com/HimanshuCraftsLab/BCG-Data-Science-Analytics--Churn-Prediction-for-Power-Co)
 **Customer Churn Prediction for PowerCo** 📊
@@ -96,7 +106,7 @@ class MandanMishra:
         return {
             "learning": ["Advanced ML Techniques", "LLMs", "RAG", "MLOps"],
             "building": ["AI-driven Applications", "NLP Pipelines", "RAG Systems"],
-            "exploring": ["AI in Finance", "Information Retrieval", "Real-time Analytics"]
+            "exploring": ["AI in Finance", "Healthcare AI", "Information Retrieval", "Real-time Analytics"]
         }
     
     def get_collaboration_interests(self):
@@ -109,9 +119,10 @@ class MandanMishra:
 
 ## 🌟 Key Accomplishments
 
-- ✅ **End-to-End ML Projects** spanning finance, NLP, and web applications
+- ✅ **End-to-End ML Projects** spanning finance, healthcare, NLP, and web applications
+- ✅ **RAG Systems** with vector databases and semantic search for production use cases
 - ✅ **Specialized Libraries** for market analysis and keyword extraction
-- ✅ **Flask-based Apps** with clean UI and modular backends
+- ✅ **Flask & Streamlit Apps** with clean UI and modular backends
 - ✅ **Cloud Analytics** with Google Cloud & BigQuery
 - ✅ **Open Source** with clean, documented repositories
 
