@@ -75,19 +75,8 @@ I'm a **Data Science Undergraduate** passionate about leveraging AI and Machine 
 ### 🌐 [General NLP Project](https://github.com/HimanshuCraftsLab/General-NLP-Project)
 **Web-based NLP Application** 🔤
 - Flask app demonstrating NLP fundamentals: preprocessing, vectorization, similarity
-- **Tech Stack:** Flask, Python, HTML
+- **Tech Stack:**  Python, Flask
 
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuCraftsLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuCraftsLab&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuCraftsLab&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🏆 Areas of Expertise
 
